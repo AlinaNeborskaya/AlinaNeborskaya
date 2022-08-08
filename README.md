@@ -3,7 +3,7 @@
 I was testing web applications, making SQL-queries (MySQL, PostgreSQL), made API requests (GET, POST, PUT, PATCH), writing tasks 
 and bugs in such BTS as Jira, Trello, Redmine and even Gitlab. Writing checklists, test-cases and reports, I have even taken code 
 changes using Git. 
-You can find my SQL-queries, checklist and bug report in Attachments.
+You can find my API requests, SQL-queries, checklist and bug report in Attachments.
 ```
 
 
