@@ -1,6 +1,6 @@
 ### Hi there 👋
 ``` 
-Му name is Alina Neborskaya 🙂, I'm from Minsk. I am a QA Engineer 💪, have an about 5 years of experience. 
+Му name is Alina Neborskaya 🙂, I'm from Minsk. I am a QA Engineer 💪, have an about 5 years of experience.
 
 📝 Projects: web applications  
 💻 Skills:  
