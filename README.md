@@ -7,7 +7,7 @@
 - SQL-queries (MySQL, PostgreSQL), 
 - API requests (GET, POST, PUT, PATCH), 
 - bug-reporting, 
-- writing checklists, test-cases and reports, 
+- writing checklists, test-cases and reports 
 🔈 Languages: Russian (native), English (B1)
 🎓 Courses: 2022 «Functional testing» IT-Academy
 📚 Books: «Testing.com» by R.Savin, «A Practitioner’s Guide to Software Test Design» by Lee Copeland
