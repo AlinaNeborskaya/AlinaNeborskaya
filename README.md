@@ -13,7 +13,7 @@
 📚 Books: «Testing.com» by R.Savin, «A Practitioner’s Guide to Software Test Design» by Lee Copeland
 📫 Contacts: alinaneborskaya19@gmail.com, Skype: Alina.Neborskaya
 
-You can find my API requests, SQL-queries, checklist and bug report in Attachments. 
+You can find my API requests, SQL-queries, test plan, checklist, test case, test result report and bug report in Attachments. 
 P.S. Thank you for your time 😉
 ```
 
