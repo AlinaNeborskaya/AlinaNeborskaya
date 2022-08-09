@@ -9,7 +9,7 @@
 - bug-reporting, 
 - writing checklists, test-cases and reports, 
 🔈 Languages: Russian (native), English (B1)
-🎓 Courses: Functional testing IT-Academy 2022
+🎓 Courses: 2022 «Functional testing» IT-Academy
 📚 Books: «Testing.com» by R.Savin, «A Practitioner’s Guide to Software Test Design» by Lee Copeland
 📫 Contacts: alinaneborskaya19@gmail.com, Skype: Alina.Neborskaya
 
